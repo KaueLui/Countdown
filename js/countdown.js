@@ -1,5 +1,5 @@
 // Updated release date for GTA VI - May 26, 2026
-const releaseDate = new Date("2026-05-26T00:00:00");
+const releaseDate = new Date("2026-11-19T00:00:00");
 const countdownElement = document.getElementById("countdown");
 const ctaButton = document.querySelector(".cta-button");
 
